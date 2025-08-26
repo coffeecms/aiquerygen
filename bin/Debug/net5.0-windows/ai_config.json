@@ -1,0 +1,9 @@
+﻿{
+  "ApiKey": "1111111111111111",
+  "ModelName": "gpt-3.5-turbo",
+  "CustomEndpoint": "http://172.17.108.175:8080/v1",
+  "TimeoutSeconds": 300,
+  "MaxTokens": 2048,
+  "Temperature": 0.7,
+  "EnableStreaming": false
+}
